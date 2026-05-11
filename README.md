@@ -101,13 +101,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuvanYedukondalu&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YuvanYedukondalu&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuvanYedukondalu&layout=compact&theme=github_dark&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YuvanYedukondalu&theme=github-compact&hide_border=true&area=true)](https://github.com/YuvanYedukondalu)
 
 </div>
 
