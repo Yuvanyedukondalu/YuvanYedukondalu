@@ -36,7 +36,7 @@
 Name: Yedukondalu Revelli
 Education: B.Tech CSE (Data Science)
 College: CMR Engineering College
-CGPA: 8.95
+CGPA: 9
 Location: Hyderabad, India
 
 Interests:
